@@ -1,0 +1,45 @@
+﻿IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+166.0.188.128,17251,TRUE,LAX,North America,Los Angeles,178 ms,8827 kB/s
+23.158.136.197,27522,TRUE,LAX,North America,Los Angeles,167 ms,8070 kB/s
+166.0.188.128,43745,TRUE,LAX,North America,Los Angeles,172 ms,7332 kB/s
+166.0.188.128,56268,TRUE,LAX,North America,Los Angeles,183 ms,6378 kB/s
+166.0.188.128,56825,TRUE,LAX,North America,Los Angeles,175 ms,5810 kB/s
+152.70.155.147,2096,TRUE,LAX,North America,Los Angeles,276 ms,5726 kB/s
+193.123.252.170,2083,TRUE,ICN,Asia Pacific,Seoul,71 ms,5708 kB/s
+82.153.65.154,24620,TRUE,NRT,Asia Pacific,Tokyo,250 ms,57 kB/s
+166.0.188.128,19027,TRUE,LAX,North America,Los Angeles,184 ms,5667 kB/s
+166.0.188.128,41443,TRUE,LAX,North America,Los Angeles,174 ms,5607 kB/s
+23.158.136.27,18566,TRUE,LAX,North America,Los Angeles,177 ms,5495 kB/s
+185.155.235.146,777,TRUE,HKG,Asia Pacific,Hong Kong,381 ms,547 kB/s
+152.70.155.147,2087,TRUE,LAX,North America,Los Angeles,293 ms,5451 kB/s
+152.70.155.147,2083,TRUE,LAX,North America,Los Angeles,279 ms,5402 kB/s
+193.123.250.209,2087,TRUE,ICN,Asia Pacific,Seoul,62 ms,5390 kB/s
+23.158.136.28,35465,TRUE,LAX,North America,Los Angeles,166 ms,5349 kB/s
+166.0.188.128,16819,TRUE,LAX,North America,Los Angeles,174 ms,4823 kB/s
+166.0.188.128,47314,TRUE,LAX,North America,Los Angeles,174 ms,4747 kB/s
+89.168.112.118,8443,TRUE,FRA,Europe,Frankfurt,295 ms,4741 kB/s
+166.0.188.128,26805,TRUE,LAX,North America,Los Angeles,182 ms,4673 kB/s
+141.147.89.162,443,TRUE,FRA,Europe,Frankfurt,245 ms,4671 kB/s
+166.0.188.91,12540,TRUE,LAX,North America,Los Angeles,176 ms,4570 kB/s
+166.0.188.128,20617,TRUE,LAX,North America,Los Angeles,180 ms,4557 kB/s
+158.179.207.182,2053,TRUE,ARN,Europe,Stockholm,254 ms,4175 kB/s
+158.178.206.197,8443,TRUE,CDG,Europe,Paris,297 ms,4110 kB/s
+166.0.188.128,13657,TRUE,LAX,North America,Los Angeles,186 ms,3951 kB/s
+158.178.129.114,2053,TRUE,TLV,Middle East,Tel Aviv,293 ms,3814 kB/s
+141.147.85.167,8443,TRUE,LHR,Europe,London,258 ms,3642 kB/s
+158.101.199.249,8443,TRUE,AMS,Europe,Amsterdam,313 ms,3612 kB/s
+141.144.197.111,443,TRUE,AMS,Europe,Amsterdam,294 ms,3570 kB/s
+158.178.129.114,8443,TRUE,TLV,Middle East,Tel Aviv,299 ms,3525 kB/s
+166.0.188.128,12535,TRUE,LAX,North America,Los Angeles,184 ms,3510 kB/s
+140.238.158.238,8080,TRUE,YYZ,North America,Toronto,240 ms,3481 kB/s
+152.70.59.90,8443,TRUE,AMS,Europe,Amsterdam,317 ms,3426 kB/s
+130.162.226.138,8443,TRUE,FRA,Europe,Frankfurt,298 ms,3192 kB/s
+158.179.207.182,8443,TRUE,ARN,Europe,Stockholm,266 ms,3145 kB/s
+150.230.20.156,2053,TRUE,AMS,Europe,Amsterdam,309 ms,3132 kB/s
+166.0.188.128,11893,TRUE,LAX,North America,Los Angeles,177 ms,3045 kB/s
+103.75.70.107,55092,TRUE,NRT,Asia Pacific,Tokyo,225 ms,14 kB/s
+141.11.87.20,7783,TRUE,TPE,Asia Pacific,Taipei,194 ms,13 kB/s
+141.11.78.134,8443,TRUE,HKG,Asia Pacific,Hong Kong,329 ms,13 kB/s
+185.155.235.146,17771,TRUE,SIN,Asia Pacific,Singapore,333 ms,1059 kB/s
+166.0.188.128,29655,TRUE,LAX,North America,Los Angeles,179 ms,10313 kB/s
+166.0.188.128,40145,TRUE,LAX,North America,Los Angeles,186 ms,0 kB/s
